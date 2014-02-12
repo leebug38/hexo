@@ -1,0 +1,28 @@
+title: 博客装扮--Pacman主题
+date: 2014-02-11 11:26:55
+tags: [hexo]
+categories: [writing]
+description: 人靠衣装，佛靠金装，hexo如此牛逼的博客，怎能没个让自己看着爽心的主题装扮下呢？本博客基于Pacman主题，根据自己需求，做了少量修改，现将这次折腾之旅记录下来。
+
+---
+人靠衣装，佛靠金装，hexo如此牛逼的博客，怎能没个让自己看着爽心的主题装扮下呢？hexo版本`2.4+`的默认主题是`Landscape`，看着实在没什么感觉，于是下定决心换一个自己看着爽心的主题。看到[Alimon's blog][blog1]后，感觉这个博客的主题不错，尤其是`header`，`footer`部分，既然*中*了，那还等啥，走你！
+
+# Pacman简介
+Pacman是一款为hexo打造的*扁平化*，有着*响应式*设计的主题。*扁平化*和*响应式*在如今的手机应用、网页设计领域已是随处可见，「Win8 Metro」和「ios7」就是典型的扁平化设计，简约清晰！前端牛逼框架[Bootstrap][]也支持响应式设计，使得用户在移动设备上也有很好的体验。Pacman中所有的css都采用[Stylus][]编写，自己动手改动也比较方便，不懂前端的我对此深有感触。关于Pacman的更多详细介绍，参见[《Pacman主题介绍》][ref1]，安装、设置、更新、配置等都很详细。
+
+# 小改动
+## 主题色
+Pacman默认颜色是`#ea6753`，蛮有活力的颜色，我本打算直接换一个主题色，但试了好几个，感觉一般，想起[Zippera's blog][blog2]
+
+##
+
+
+
+
+
+
+[Bootstrap]: http://www.bootcss.com/
+[Stylus]: http://learnboost.github.io/stylus/
+[blog1]: http://yangjian.me
+[blog2]: http://zipperary.com
+[ref1]: http://yangjian.me/workspace/introducing-pacman-theme/
