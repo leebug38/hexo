@@ -1,4 +1,4 @@
-date: 2014-02-02 22:11:49.759
+date: 2014-02-10 14:27:38.623
 argv: node /usr/local/bin/hexo server
 os: Linux 3.8.0-29-generic linux ia32
 version:
@@ -13,34 +13,30 @@ version:
   openssl: 1.0.1e
 ---
 
-[debug] 21:35:16.056 Configuration file load successfully
-[debug] 21:35:16.061 Version info checked successfully
-[debug] 21:35:16.125 Loading database.
-[debug] 21:35:16.187 Script load successfully: fancybox.js
-[debug] 21:35:16.214 Theme layout loaded
-[debug] 21:35:16.236 Theme configuration loaded
-[debug] 21:35:16.265 Theme source loaded
-[debug] 21:35:16.270 Theme language files loaded
-[debug] 21:35:16.302 Processed: about/index.md
-[debug] 21:35:16.304 Processed: _posts/hello-world.md
-[debug] 21:35:16.305 Processed: _posts/i-can-write.md
-[debug] 21:35:16.313 Cache saved
-[info] 21:35:16.340 Hexo is running at localhost:4000/. Press Ctrl+C to stop.
-[debug] 21:35:22.454 Render index: 
-[debug] 21:35:48.174 Render index: 
-[debug] 21:36:54.663 Render post: 2014/02/01/i-can-write/
-[debug] 21:43:54.955 Render tag: tags/node/
-[debug] 21:44:28.795 Render index: 
-[update] 21:51:03.076 Theme: source/img/logo.svg
-[debug] 21:51:40.102 Render index: 
-[debug] 21:51:43.924 Render index: 
-[debug] 21:51:47.054 Render index: 
-[update] 22:04:38.174 Theme: source/img/logo.svg
-[debug] 22:04:46.849 Render index: 
-[update] 22:10:51.379 Theme: source/img/logo.svg
-[debug] 22:11:00.262 Render index: 
-[delete] 22:11:49.627 Theme: source/img/logo.svg
-[error] 22:11:49.731 ReferenceError: route is not defined
+[debug] 14:25:23.267 Configuration file load successfully
+[debug] 14:25:23.271 Version info checked successfully
+[debug] 14:25:23.327 Loading database.
+[debug] 14:25:23.403 Plugin loaded successfully: hexo-generator-feed
+[debug] 14:25:23.431 Plugin loaded successfully: hexo-generator-sitemap
+[debug] 14:25:23.434 Script load successfully: fancybox.js
+[debug] 14:25:23.469 Theme layout loaded
+[debug] 14:25:23.494 Theme configuration loaded
+[debug] 14:25:23.524 Theme source loaded
+[debug] 14:25:23.526 Processed: image/gmail.jpg
+[debug] 14:25:23.526 Processed: image/weixin.jpg
+[debug] 14:25:23.530 Theme language files loaded
+[debug] 14:25:23.780 Processed: google2805d08f592baf4c.html
+[debug] 14:25:23.885 Processed: about/index.md
+[debug] 14:25:23.887 Processed: _posts/使用hexo搭建博客.md
+[debug] 14:25:23.900 Cache saved
+[info] 14:25:24.087 Hexo is running at localhost:4000/. Press Ctrl+C to stop.
+[debug] 14:25:32.809 Render index: 
+[debug] 14:25:33.079 Render index: 
+[debug] 14:25:33.182 Render index: 
+[debug] 14:25:47.965 Render index: 
+[create] 14:27:34.072 Theme: source/img/adsf.svg
+[delete] 14:27:38.500 Theme: source/img/adsf.svg
+[error] 14:27:38.603 ReferenceError: route is not defined
 ReferenceError: route is not defined
     at _watchSource (/usr/local/lib/node_modules/hexo/lib/core/theme.js:210:5)
     at /usr/local/lib/node_modules/hexo/lib/core/theme.js:260:15

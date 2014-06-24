@@ -2,9 +2,11 @@ title: About me
 ---
 南京在读水硕一枚，计算机理论方向。身高略高体重略轻，基本属性如下：
 ```python
-name = "李国拯"
+name = "LGZ"
+alias = "leebug"
 sex = "man"  # 骚男
 birth = "1990/03/08"
+hometown = "NanTong"
 ```
 # What's more
 

@@ -43,11 +43,11 @@ $ vi themes/pacman/source/css/_base/code.styl
 想法还是挺多的，就是水平受限，其它的改动也不多，主要就是某些组件的排版，代码块背景设成圆角等等。以后边学习，边改动吧。
 
 # 写在最后
-* Pacman需要安装[Hexo][] 2.4.5 或以上版本
+* Pacman需要安装[Hexo][] 2.4.5 或以上版本。
 * 改网页布局啥的可以使用Chrome的「F12」，各种方便。
 * 不懂代码没关系，知道改哪里就行了，在折腾过程中，我经常使用全局搜索包含某行代码的文件：`find <folder> | xargs grep "目标代码"`，然后或者修改，或者参考，还是挺方便的。
 * 谢谢[yangjian.me][blog1]，这么好的主题，以及代码。
-* 我的博客源文件[GitHub地址][leebug]
+* 我的博客源文件[GitHub地址][leebug]。
 * 以此主题致敬「红蓝巴萨」！
 
 [Bootstrap]: http://www.bootcss.com/
